@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download The Bug Hunting Arsenal](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://tinyurl.com/the-bug-hunting-arsenal)
+[![Download The Bug Hunting Arsenal](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://share.google/2e7IqSR90hRoQdx8c)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download The Bug Hunting Arsenal](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://tinyurl.com/the-bug-hunting-arsenal)
+[![Download The Bug Hunting Arsenal](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://share.google/2e7IqSR90hRoQdx8c)
 
 </div>
 
@@ -174,7 +174,7 @@ Get the ultimate bug hunting payload collection for free. **The Bug Hunting Arse
 
 <div align="center">
 
-[![Download The Bug Hunting Arsenal](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://tinyurl.com/the-bug-hunting-arsenal)
+[![Download The Bug Hunting Arsenal](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://share.google/2e7IqSR90hRoQdx8c)
 
 **Version 5.0.0** — Free bug bounty and pentest payload collection. May 2026 update. Zero cost. No payment.
 
